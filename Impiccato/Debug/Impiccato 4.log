@@ -1,0 +1,22 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: la directory intermedia (Debug\) contiene file condivisi da un altro progetto (Impiccato 4.vcxproj). Tale condizione può comportare un comportamento di pulizia e ricompilazione non corretto.
+  m1conforonto.cpp
+  m1immagineomp.cpp
+  m2contafrequenza.cpp
+  Impiccato4.cpp
+  m2letteretentate.cpp
+  mlettnum.cpp
+  m2lunghezza.cpp
+  m2cretorepath.cpp
+  m2letterapiuprob.cpp
+C:\Users\Miky\Desktop\Michele\Impiccato\m2letterapiuprob.cpp(8,24): warning C4101: 'numero': variabile locale senza riferimenti
+C:\Users\Miky\Desktop\Michele\Impiccato\m2letterapiuprob.cpp(7,10): warning C4101: 'lettera': variabile locale senza riferimenti
+  m2parolasbagliata.cpp
+  m2proporre.cpp
+  modalita1.cpp
+C:\Users\Miky\Desktop\Michele\Impiccato\modalita1.cpp(32,15): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+C:\Users\Miky\Desktop\Michele\Impiccato\modalita1.cpp(42,23): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  modalita2.cpp
+  m2parola1.cpp
+  m2separatorestring.cpp
+  Generazione del codice in corso...
+  Impiccato 4.vcxproj -> C:\Users\Miky\Desktop\Michele\Impiccato\Debug\Impiccato4.exe

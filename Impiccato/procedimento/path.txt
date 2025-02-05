@@ -1,0 +1,2 @@
+./procedimento/lista3.txt
+./procedimento/lista4.txt
