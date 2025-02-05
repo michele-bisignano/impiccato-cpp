@@ -1,2 +1,17 @@
-# impiccato-cpp
-A simple hangman game in C++ where the user can guess a secret word or make the program guess it.
+# Hangman Game in C++ 🎮
+
+## Description  
+This is a simple console-based hangman game written in C++. The user can:  
+- **Guess a secret word** letter by letter.  
+- **Provide a secret word** for the program to guess (future feature).  
+
+## Features  
+- Single-player mode.  
+- Customizable secret word.  
+- Simple text-based interface.  
+- Six attempts to guess the word before losing.  
+
+## How to Use 🚀  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/hangman-cpp.git
