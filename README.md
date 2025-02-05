@@ -3,7 +3,7 @@
 ## Description  
 This is a simple console-based hangman game written in C++. The user can:  
 - **Guess a secret word** letter by letter.  
-- **Provide a secret word** for the program to guess (future feature).  
+- **Provide a secret word** for the program to guess.  
 
 ## Features  
 - Single-player mode.  
