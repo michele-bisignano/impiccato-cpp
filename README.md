@@ -14,4 +14,4 @@ This is a simple console-based hangman game written in C++. The user can:
 ## How to Use 🚀  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/hangman-cpp.git
+   git clone https://github.com/BisyB/hangman-cpp.git
